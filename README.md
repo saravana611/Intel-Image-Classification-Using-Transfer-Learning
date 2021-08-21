@@ -1,1 +1,1 @@
-# Intel-Image-Classification-Using-Transwer-Learning
+# Intel-Image-Classification-Using-Transfer-Learning
